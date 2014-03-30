@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1372839117 source:/home/vamshi/merge/main.c
+	<stdio.h>
+	<assert.h>
+
